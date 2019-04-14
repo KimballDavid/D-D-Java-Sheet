@@ -1,10 +1,10 @@
 /*
-Property of David Kimball, Student National University
+Property of David Kimball
 */
 
 import java.util.Scanner;
 
-public class CClass
+public class CClass extends Character
 {
     public static void main(String[] args)
     {
